@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="uk.planetpeanut.invert">
+	<uses-sdk android:minSdkVersion="16" android:targetSdkVersion="19" />
+	<application android:label="Invert"
+	             android:hardwareAccelerated="true">
+	</application>
+	<uses-permission android:name="android.permission.CAMERA" />
+</manifest>

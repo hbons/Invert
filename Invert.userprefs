@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="Invert/Invert.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus_5_API_22" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Invert/MainActivity.cs">
+    <Files>
+      <File FileName="Invert/MainActivity.cs" Line="75" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
